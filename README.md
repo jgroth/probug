@@ -8,3 +8,5 @@ Change your paths in `config.js` to match your setup. Then run
 npm install
 npm start
 ```
+
+![Hacker](https://i.giphy.com/media/lIbVrBqGGHUl2/giphy.gif)
